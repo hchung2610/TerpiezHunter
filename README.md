@@ -1,6 +1,6 @@
-# Terpiez
+# Terpiez Hunter
 
-Terpiez is a gamified, location-based app that lets users discover, find, and catch virtual creatures called Terpiez. Utilizing various Flutter packages and services, Terpiez offers an engaging user experience with background location tracking, notifications, and Google Maps integration.
+Terpiez Hunter is a gamified, location-based app that lets users discover, find, and catch virtual creatures called Terpiez. Utilizing various Flutter packages and services, Terpiez offers an engaging user experience with background location tracking, notifications, and Google Maps integration.
 
 ## Features
 
@@ -26,7 +26,7 @@ Terpiez is a gamified, location-based app that lets users discover, find, and ca
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/TerpiezTracker.git
+   git clone https://github.com/hchung2610/TerpiezTracker.git
    cd TerpiezTracker
    ```
 
@@ -82,6 +82,10 @@ Terpiez is a gamified, location-based app that lets users discover, find, and ca
 - `shake`
 - `sensors_plus`
 - `audioplayers`
+
+## Redis server credentials: 
+- username: hchung26 
+- passcode: 9ec81aed130a4e2bb3a48748798f6dde
 
 ## Contributing
 
