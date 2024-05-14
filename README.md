@@ -83,6 +83,10 @@ Terpiez is a gamified, location-based app that lets users discover, find, and ca
 - `sensors_plus`
 - `audioplayers`
 
+## Account: 
+username: hchung26 
+passcode: 9ec81aed130a4e2bb3a48748798f6dde
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
