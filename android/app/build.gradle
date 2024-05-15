@@ -27,8 +27,6 @@ if (googleMapsApiKey == null) {
     throw new GradleException("API key for Google Maps not found in local.properties")
 }
 
-println "Google Maps API Key: $googleMapsApiKey"  // Log the API key (optional)
-
 android {
     namespace "com.example.terpiez"
     compileSdkVersion 34 //flutter.compileSdkVersion
@@ -57,7 +55,7 @@ android {
 
         manifestPlaceholders = [
                 googleMapsApiKey: googleMapsApiKey,
-                applicationName: "com.example.terpiez"  // Add this line
+                applicationName: "com.example.terpiez"
         ]
     }
 

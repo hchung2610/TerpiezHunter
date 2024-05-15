@@ -44,3 +44,6 @@ app.*.map.json
 
 # Ignore local.properties
 local.properties
+
+# Ignore google-services.json
+google-servies.json
